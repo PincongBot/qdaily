@@ -1,0 +1,1 @@
+{"type": "comment", "id": 998517, "parent_type": "article", "parent_id": 65160, "date": "2020-04-23T04:38:44Z", "author": 1357295, "comment_count": 0, "praise_count": 5, "contents": "iphone的邮件漏洞应该仅限于使用苹果自带邮件服务的过程，会有系统崩溃的可能，重启后会产生一个后门，黑客可以通过这个后门获取邮件app可以取用的所有相关数据，比如照片，位置信息，联系人等，大概是这么一个原理。", "child_comments": []}
