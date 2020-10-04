@@ -1,0 +1,1 @@
+{"type": "comment", "id": 205943, "parent_type": "comment", "parent_id": 205885, "date": "2016-03-24T16:00:11Z", "author": 86289, "comment_count": 1, "praise_count": 1, "contents": "airdrop是用蓝牙配对后使用设备自身的wifi网卡5Ghz频段传输的，直接点对点传输，不需要经过路由器，也不用数据网络，速度也比蓝牙快，亲测。"}

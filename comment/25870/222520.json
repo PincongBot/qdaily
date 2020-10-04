@@ -1,0 +1,1 @@
+{"type": "comment", "id": 222520, "parent_type": "comment", "parent_id": 222374, "date": "2016-04-22T16:12:32Z", "author": 258072, "comment_count": 0, "praise_count": 2, "contents": "3.5v 500ma,基本上现在常规都是5v 1000ma,应该是在你原有充电时间的2.857倍，前提是3.5v能充的话，还有升压后的损耗，毛算3倍。"}
