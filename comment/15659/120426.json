@@ -1,0 +1,1 @@
+{"type": "comment", "id": 120426, "parent_type": "comment", "parent_id": 120313, "date": "2015-10-02T13:11:17Z", "author": 1248, "comment_count": 1, "praise_count": 0, "contents": "至少要挂后台吧，iOS 的伪后台机制注定后台抢票是不可能的吧，即使有后台刷新机制，一旦检测到大量资源消耗估计也会被干掉"}

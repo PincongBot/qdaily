@@ -1,0 +1,1 @@
+{"type": "comment", "id": 134324, "parent_type": "comment", "parent_id": 134269, "date": "2015-10-28T19:07:44Z", "author": 269728, "comment_count": 0, "praise_count": 1, "contents": "其实iOS只针对自己的cpu做优化，不同于安卓。他不会在底层针对某一款CPU做优化的。"}

@@ -1,0 +1,1 @@
+{"type": "comment", "id": 166693, "parent_type": "comment", "parent_id": 152139, "date": "2016-01-04T08:52:52Z", "author": 3557, "comment_count": 0, "praise_count": 0, "contents": "其实根本不用，JAVA虚拟机的gc机制会自动释放内存，清理手机是那些安全软件玩你的。"}
