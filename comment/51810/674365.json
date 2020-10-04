@@ -1,0 +1,1 @@
+{"type": "comment", "id": 674365, "parent_type": "article", "parent_id": 51810, "date": "2018-04-05T05:46:56Z", "author": 1304521, "comment_count": 1, "praise_count": 31, "contents": "用户即使是删除账户，系统也只会在数据库进行逻辑删除，数据依旧会保留      \n         ----来自一个不愿透露姓名的热心程序员", "child_comments": [675200]}

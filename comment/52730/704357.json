@@ -1,0 +1,1 @@
+{"type": "comment", "id": 704357, "parent_type": "comment", "parent_id": 704021, "date": "2018-05-02T08:20:49Z", "author": 1312583, "comment_count": 0, "praise_count": 0, "contents": "支持TRIM的系统，都是根据磨损平均写入的，和HDD完全两个概念，所以只要是支持TRIM的nand 95%都是无法恢复的，剩下5%恢复也非常难"}

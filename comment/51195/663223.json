@@ -1,0 +1,1 @@
+{"type": "comment", "id": 663223, "parent_type": "comment", "parent_id": 663010, "date": "2018-03-25T15:38:45Z", "author": 869761, "comment_count": 0, "praise_count": 6, "contents": "路由器有无线联网认证功能的，开启白名单模式，把自用设备的mac地址加入白名单，这样即使你的wifi密码被公之于众，别人连接你的ssid也一样拒绝连接。"}

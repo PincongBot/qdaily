@@ -1,0 +1,1 @@
+{"type": "comment", "id": 645722, "parent_type": "article", "parent_id": 50436, "date": "2018-03-06T07:23:14Z", "author": 1278436, "comment_count": 0, "praise_count": 3, "contents": "这个问题还是出在技术上：如果计算机是十进制，使用者就可以像手写一样输入汉字，目前计算机只是二进制，处理拉丁字母更有优势，所以汉语拼音输入汉字是主流。换句话说，目前计算机使用的源代码还是太原始", "child_comments": []}
