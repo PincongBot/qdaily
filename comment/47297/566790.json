@@ -1,0 +1,1 @@
+{"type": "comment", "id": 566790, "parent_type": "comment", "parent_id": 566762, "date": "2017-11-19T18:27:22Z", "author": 1169599, "comment_count": 1, "praise_count": 2, "contents": "以后再在网上遇到什么不能直接下载的图，都可以按F12，然后选中图片，然后在图片对应的img标签里面找到src属性的值，该值为url，黏贴到新标签页打开。该方法百试不爽。"}
