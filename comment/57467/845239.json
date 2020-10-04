@@ -1,0 +1,1 @@
+{"type": "comment", "id": 845239, "parent_type": "comment", "parent_id": 844567, "date": "2018-10-20T08:31:32Z", "author": 938879, "comment_count": 0, "praise_count": 2, "contents": "准确的说应该是16种原色。如果一种原色有8bit色深，即2的8次方为256个色阶，那么3种原色就有256＊256＊256种色彩，10bit色深的3种原色就会有超过10亿的色彩。16种原色所能产生的色彩数量是很夸张的"}

@@ -1,0 +1,1 @@
+{"type": "comment", "id": 860468, "parent_type": "comment", "parent_id": 860457, "date": "2018-11-13T02:28:14Z", "author": 1172887, "comment_count": 0, "praise_count": 32, "contents": "Android手机的话，微信扫码比支付宝快一点，是因为微信常驻后台进程，进程保持活跃，而支付宝一般都被系统杀掉进程，你使用时需要完整唤醒，扫码时组件也需要唤醒，所以慢了。"}

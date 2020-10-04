@@ -1,0 +1,1 @@
+{"type": "comment", "id": 829170, "parent_type": "comment", "parent_id": 828496, "date": "2018-09-22T17:25:36Z", "author": 1045403, "comment_count": 0, "praise_count": 1, "contents": "直接翻译做不到，不过实践中可以非神经网络方法可以直接加词表做优化，比如当前会议中，每次看遇到one belt one road，直接对应一带一路，所谓named entity"}
