@@ -1,0 +1,1 @@
+{"type": "comment", "id": 920813, "parent_type": "article", "parent_id": 61218, "date": "2019-02-15T04:47:27Z", "author": 84181, "comment_count": 1, "praise_count": 10, "contents": "GPS定位的测量原理是后方交会；\n在实际测量中其实是需要至少4颗卫星实现定位，因为观测方程中除了3个位置参数，还要考虑钟差，在计算时也要将其作为一个未知数来处理。\n学的测绘，一知半解，有错见谅。", "child_comments": [920868]}
