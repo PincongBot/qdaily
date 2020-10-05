@@ -1,0 +1,1 @@
+{"type": "comment", "id": 704303, "parent_type": "comment", "parent_id": 704021, "date": "2018-05-02T07:33:49Z", "author": 492856, "comment_count": 1, "praise_count": 0, "contents": "这要看垃圾回收机制，默认情况格式化后是在空扇区写入新的系统的，所以是可以找回的（除非存储器小的可怜）。当然要擦干净也不难，拿个电磁铁在上面划两下就行了。"}

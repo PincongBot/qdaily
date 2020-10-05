@@ -1,0 +1,1 @@
+{"type": "comment", "id": 610086, "parent_type": "comment", "parent_id": 610000, "date": "2018-01-18T12:53:40Z", "author": 816874, "comment_count": 0, "praise_count": 1, "contents": "看着不像源码，应该是引入了jQuery的代码，addClass(\"in\"),removeClass(\"fade\")这样的代码是业务代码吧"}

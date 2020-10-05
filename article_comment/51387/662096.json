@@ -1,0 +1,1 @@
+{"type": "comment", "id": 662096, "parent_type": "comment", "parent_id": 662039, "date": "2018-03-23T18:33:57Z", "author": 459556, "comment_count": 0, "praise_count": 2, "contents": "其实主要的是保留x86指令是为了兼容，目前的芯片都是又把x86指令进一步翻译成risc微指令，然后就完全是risc的那一套流水线技术了，要不然文章也不会说99%的都是risc。"}

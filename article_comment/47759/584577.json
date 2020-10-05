@@ -1,0 +1,1 @@
+{"type": "comment", "id": 584577, "parent_type": "comment", "parent_id": 575917, "date": "2017-12-12T03:58:47Z", "author": 1045403, "comment_count": 0, "praise_count": 0, "contents": "ip和人（或设备）对应，而不是由局域网dhcp分配，那每个局域网下可能对应的地址空间都是巨大的。按物理地址分配，核心路由器只需要存到边缘路由器。按个人分配，同一局域网下每个设备的ip都要存到路由表里。（当然除了共同的前缀）"}

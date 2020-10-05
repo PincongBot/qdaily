@@ -1,0 +1,1 @@
+{"type": "comment", "id": 678896, "parent_type": "comment", "parent_id": 677850, "date": "2018-04-10T10:55:56Z", "author": 339512, "comment_count": 0, "praise_count": 1, "contents": "华为会在本地缓存一下数据，然后京东的app获得了本地权限获得了缓存，这个缓存再同步到京东服务器上。甚至京东都不用去验证你的用户身份"}

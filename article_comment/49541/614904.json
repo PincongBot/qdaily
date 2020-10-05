@@ -1,0 +1,1 @@
+{"type": "comment", "id": 614904, "parent_type": "comment", "parent_id": 614848, "date": "2018-01-25T01:26:45Z", "author": 1246025, "comment_count": 2, "praise_count": 0, "contents": "大部分 App 并不会驻留后台，5分钟左右会被杀掉的。 据我所知，多任务管理器只是保留了 App 的截图。"}

@@ -1,0 +1,1 @@
+{"type": "comment", "id": 198706, "parent_type": "comment", "parent_id": 198688, "date": "2016-03-10T20:56:30Z", "author": 346805, "comment_count": 0, "praise_count": 1, "contents": "再补充一句，零和游戏中，贪婪算法不一定是最优解，但肯定是最简单最好理解和实施、对算法复杂度和计算量要求最低的解法之一。我们人类下棋就是用的贪婪算法。"}

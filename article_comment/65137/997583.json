@@ -1,0 +1,1 @@
+{"type": "comment", "id": 997583, "parent_type": "comment", "parent_id": 997556, "date": "2020-03-31T11:46:25Z", "author": 1520542, "comment_count": 0, "praise_count": 4, "contents": "我的理解是这个new IP会在传输时携带一些类似服务信息、身份信息的标志，从而使网络运营商能分类去调度网络资源。不过极大的违反了互联网中立，另外这些附加的信息绝对是个灾难。"}

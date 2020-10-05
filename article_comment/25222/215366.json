@@ -1,0 +1,1 @@
+{"type": "comment", "id": 215366, "parent_type": "comment", "parent_id": 215335, "date": "2016-04-11T08:40:27Z", "author": 246883, "comment_count": 1, "praise_count": 0, "contents": "其实不难…android开发有两层的有人直接用c、java的是需要跑在jvm上，但swift编译成c，苹果已经做了。android现在要做的仅仅需要把swift语言编译成对应的c"}

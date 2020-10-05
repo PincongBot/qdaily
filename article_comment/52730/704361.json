@@ -1,0 +1,1 @@
+{"type": "comment", "id": 704361, "parent_type": "comment", "parent_id": 704021, "date": "2018-05-02T08:22:40Z", "author": 1312583, "comment_count": 0, "praise_count": 0, "contents": "TRIM之后，每当写入新数据，都会比较平均的写入，相当于一些新数据，每个部分的老数据都会被破坏掉一部分，大部分数据破坏掉一部分就等于完全废了，所以几乎无法恢复"}

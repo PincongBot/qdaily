@@ -1,0 +1,1 @@
+{"type": "comment", "id": 304459, "parent_type": "comment", "parent_id": 303715, "date": "2016-09-29T16:33:14Z", "author": 720809, "comment_count": 0, "praise_count": 0, "contents": "并不是，这个是可编程的逻辑门阵列，明显树莓派和Arduino都用的是基于arm架构的芯片，而这个其实是可以通过硬件描述语言做出所谓的“芯片”或者专业功能"}

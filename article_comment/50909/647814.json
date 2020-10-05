@@ -1,0 +1,1 @@
+{"type": "comment", "id": 647814, "parent_type": "comment", "parent_id": 646815, "date": "2018-03-09T03:45:41Z", "author": 910272, "comment_count": 1, "praise_count": 0, "contents": "那些打勾就是要获取权限吧。你不打勾是不能安装的。除非你先通过，再去设置里取消部分权限。ios在安装的时候app拿不到权限，只有当你第一次启动的时候才弹出窗口获取权限。你可以不给权限，比如位置，通讯录，相册，但app依然可以用。"}

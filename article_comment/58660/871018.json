@@ -1,0 +1,1 @@
+{"type": "comment", "id": 871018, "parent_type": "article", "parent_id": 58660, "date": "2018-11-27T08:59:23Z", "author": 98168, "comment_count": 0, "praise_count": 19, "contents": "透明钢化玻璃的穿透损耗约在 10db 以下，穿透金属的电波损耗则达到 25db，损耗是玻璃的 2 倍多。\n这段话存在错误。db是取对数后的比值单位。20db是10db的100多倍而不是2倍多。\n我不信这是论文中的结果。", "child_comments": []}

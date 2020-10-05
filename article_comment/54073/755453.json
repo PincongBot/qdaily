@@ -1,0 +1,1 @@
+{"type": "comment", "id": 755453, "parent_type": "comment", "parent_id": 754573, "date": "2018-06-11T03:43:50Z", "author": 1071424, "comment_count": 2, "praise_count": 0, "contents": "数据库，带宽，服务器，内存，cpu。你说的这些都是application layer，国内做的还可以。infrustructure layer的就不要想了。如果要用tensorflow之类的，在谁手里你应该也清楚。"}

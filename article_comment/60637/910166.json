@@ -1,0 +1,1 @@
+{"type": "comment", "id": 910166, "parent_type": "article", "parent_id": 60637, "date": "2019-01-25T08:21:36Z", "author": 1319708, "comment_count": 0, "praise_count": 5, "contents": "DeepMind 基于不同玩家比赛数据制作出多个 AlphaStar 的代理（agent）和分叉，让它们按“Alpha League”联赛模式采用不同的战术策略，逐一相互对抗。每场比赛都会产生新的信息来迭代人工智能。——如果以人工智能的视角来看，这就是残酷的角斗场，失败者就被消灭了啊……", "child_comments": []}
