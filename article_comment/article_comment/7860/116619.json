@@ -1,0 +1,1 @@
+{"type": "comment", "id": 116619, "parent_type": "comment", "parent_id": 68667, "date": "2015-09-23T13:35:23Z", "author": 195037, "comment_count": 0, "praise_count": 0, "contents": "可惜ATOM不是ARM架构的。现在大部分移动端的应用都是基于ARM(v7, v8)架构汇编出来的不是X86，所以要用ATOM芯片，要么这些应用重新从源代码开始编译一遍，要么就跑ATOM的ARM兼容模式（性能损失很大，甚至不兼容跑不起来）。带来的结果就是，是的，ATOM跑分很好，性能很棒，但是没有应用，没有跑得好，跑得快的应用，特别是热门应用。"}
