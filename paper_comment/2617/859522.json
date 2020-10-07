@@ -1,0 +1,1 @@
+{"type": "comment", "id": 859522, "parent_type": "comment", "parent_id": 858756, "date": "2018-11-11T12:03:07Z", "author": 950981, "comment_count": 1, "praise_count": 0, "contents": "唔_§:з)))」∠)_小火箭也是用的系统提供的Network Extensions和Personal VPN。年初看苹果官方文档中对于耗电优化的说明是有提到的，可能有优化？不知道你实际的使用情况，我的安卓和老版本系统的iPhone都会有一点发热的情况。\n\n你每天多次或大量地使用蜂窝数据和WIFI吗？因为闲置系统状态下它们默认是不通电的，vpn的工作应该与它们的通断同时。"}
