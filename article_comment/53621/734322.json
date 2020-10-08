@@ -1,0 +1,1 @@
+{"type": "comment", "id": 734322, "parent_type": "article", "parent_id": 53621, "date": "2018-05-27T11:26:05Z", "author": 1356830, "comment_count": 4, "praise_count": 5, "contents": "怀疑这个新闻的真实性。第一，为何不在本地做hash后上传，在服务器做和本地做没有区别；第二，hash只针对单一图片而且还是原图，一旦图片被修改，甚至只修改一个行像素，hash值将会有极大的改变，就无法识别了，也就是说稍微修改的不行，其他图片也不行。", "child_comments": [734361, 734430, 734461, 734474]}
