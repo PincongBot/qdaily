@@ -1,1 +1,1 @@
-{"type": "comment", "id": 661277, "parent_type": "article", "parent_id": 51391, "date": "2018-03-23T05:10:33Z", "author": 716432, "comment_count": 1, "praise_count": 0, "contents": "Text = Replace (Text, Left (Right (Text, Len (Text), - 5), 3), \"\")", "child_comments": [661298, 661350]}
+{"type": "comment", "id": 661277, "parent_type": "article", "parent_id": 51391, "date": "2018-03-23T05:10:33Z", "author": 716432, "comment_count": 2, "praise_count": 0, "contents": "Text = Replace (Text, Left (Right (Text, Len (Text), - 5), 3), \"\")", "child_comments": [661298, 661350]}
